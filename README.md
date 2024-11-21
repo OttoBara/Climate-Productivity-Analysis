@@ -16,6 +16,9 @@ Identificar patrones climáticos y agrícolas que influyen en la productividad a
   https://drive.google.com/drive/folders/1nwIFXU6Q5Rcf1ltxu5kFsLLOGjpCl4pr?usp=drive_link
 
 ### Cómo visualizar este proyecto
-1.Imagenes de la solapa 1: https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-21_192215539.png
-2.Imagenes de la solapa 2: https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-21_191931073.png
-3.Imagenes de la solapa 3: https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-21_192124144.png
+1.Dashboard de Tendencias Climáticas: https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-21_192215539.png
+2.Dashboard de Impacto Económico: https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-21_191931073.png
+3.Dashboard de Estrategias Adaptativas: https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-21_192124144.png
+
+### Agradecimientos
+Este proyecto fue desarrollado como parte de mi formación en análisis de datos en **CoderHouse**.
