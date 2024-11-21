@@ -16,5 +16,6 @@ Identificar patrones climáticos y agrícolas que influyen en la productividad a
   https://drive.google.com/drive/folders/1nwIFXU6Q5Rcf1ltxu5kFsLLOGjpCl4pr?usp=drive_link
 
 ### Cómo visualizar este proyecto
-1. Descarga el archivo `PowerBI.pbix` del repositorio.
-2. Usa Power BI Desktop para explorar los dashboards y analizar las visualizaciones.
+1.Imagenes de la solapa 1: https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-21_192215539.png
+2.Imagenes de la solapa 2: https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-21_191931073.png
+3.Imagenes de la solapa 3: https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-21_192124144.png
