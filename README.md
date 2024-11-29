@@ -12,13 +12,14 @@ Análisis del impacto del cambio climático en la productividad agrícola en div
 Identificar patrones climáticos y agrícolas que influyen en la productividad agrícola y los impactos económicos en diferentes regiones.
 
 ### Archivos incluidos
-1. **Documentación del proyecto:**
-  https://drive.google.com/drive/folders/1nwIFXU6Q5Rcf1ltxu5kFsLLOGjpCl4pr?usp=drive_link
+1. Documentación del proyecto:https://drive.google.com/drive/folders/1nwIFXU6Q5Rcf1ltxu5kFsLLOGjpCl4pr?usp=drive_link
 
 ### Cómo visualizar este proyecto
-1. Dashboard de Tendencias Climáticas: https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-21_192215539.png
-2. Dashboard de Impacto Económico: https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-21_191931073.png
-3. Dashboard de Estrategias Adaptativas: https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-21_192124144.png
+0. Portada:https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-29_185347197.png
+1. Glosario:https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-29_185118495.png
+2. Dashboard de Tendencias Climáticas:https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-29_184950928.png
+3. Dashboard de Impacto Económico:https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-29_185026955.png
+4. Dashboard de Estrategias Adaptativas:https://github.com/OttoBara/Climate-Productivity-Analysis/blob/main/imagen_2024-11-29_185053814.png
 
 ### Agradecimientos
 Este proyecto fue desarrollado como parte de mi formación en análisis de datos en **CoderHouse**.
